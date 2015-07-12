@@ -1,7 +1,4 @@
-mux
-===
-[![Build Status](https://travis-ci.org/gorilla/mux.png?branch=master)](https://travis-ci.org/gorilla/mux)
+# gopher-providers-mux
 
-gorilla/mux is a powerful URL router and dispatcher.
-
-Read the full documentation here: http://www.gorillatoolkit.org/pkg/mux
+This Service Provider is a fork of [gorilla/mux](https://github.com/gorilla/mux), a 
+powerful URL router and dispatcher for golang.
